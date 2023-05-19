@@ -1,5 +1,6 @@
 # Battery percentage check
 # Run cmd as Administrator and type(powercfg/Batteryreport)
+#Open the generated html file and submit the details
 x=int(input("Your last full charge capacity: "))
 y=int(input("Your original battery build capacity:"))
 if x > y  :
