@@ -1,2 +1,2 @@
-# FuPythonProjects
-I Upload Fun Projects Here !
+<b>Random Python Projects!</b>
+I upload Python projects here 
